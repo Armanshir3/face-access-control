@@ -163,9 +163,3 @@ The `grant_access()` and `deny_access()` functions in `src/access_control.py` ar
 - Add liveness detection to guard against photo spoofing
 - Build a small dashboard to visualize access logs
 - Add a REST API layer to control enrollment and monitoring remotely
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
